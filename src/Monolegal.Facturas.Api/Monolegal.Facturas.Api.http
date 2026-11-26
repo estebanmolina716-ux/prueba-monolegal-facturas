@@ -1,0 +1,11 @@
+@Monolegal.Facturas.Api_HostAddress = http://localhost:5283
+
+GET {{Monolegal.Facturas.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{Monolegal.Facturas.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

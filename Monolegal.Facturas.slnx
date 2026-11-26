@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Monolegal.Facturas.Api/Monolegal.Facturas.Api.csproj" />
+    <Project Path="src/Monolegal.Facturas.Application/Monolegal.Facturas.Application.csproj" />
+    <Project Path="src/Monolegal.Facturas.Domain/Monolegal.Facturas.Domain.csproj" />
+    <Project Path="src/Monolegal.Facturas.Infrastructure/Monolegal.Facturas.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Monolegal.Facturas.Tests/Monolegal.Facturas.Tests.csproj" />
+  </Folder>
+</Solution>
